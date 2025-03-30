@@ -50,7 +50,7 @@ export default function Footer() {
         <div className="border-t border-t-slate-600 flex flex-col xl:flex-row justify-center items-center pt-9 font-medium">
           <p className="mb-4">&copy;2023 HEROES PAC. All rights reserved. </p>
           <p className="mb-4 ml-1">
-            Designed & Developed by Nathan Kulewoshie & Reujoy Amissah
+            Designed & Developed by PatternCraft Group
           </p>
         </div>
       </div>
